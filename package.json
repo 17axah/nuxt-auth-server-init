@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-auth-server-init",
+  "version": "1.0.0",
+  "description": "nuxt-auth plugin providing the ability to request data only for authorized users",
+  "main": "index.js",
+  "author": "Rustam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/17axah/nuxt-auth-server-init.git"
+  },
+  "files": [
+    "dist/*",
+    "nuxt/*",
+    "src/lib/*",
+    "src/components/*",
+    "*.json"
+  ],
+  "keywords": [
+    "nuxt-auth",
+    "nuxt",
+    "auth",
+    "server init"
+  ]
+}
