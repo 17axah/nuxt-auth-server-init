@@ -17,6 +17,7 @@ export default {
   ],
 }
 ```
+***Important:*** the plugin declaration must come before the nuxt-auth module declaration.
 
 ## Usage
 
