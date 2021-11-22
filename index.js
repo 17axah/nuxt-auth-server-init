@@ -1,7 +1,7 @@
 import { join } from 'path'
 
 export default function () {
-  const { auth } = this.nuxt.options
+  const { auth, build } = this.nuxt.options
   const plugin = {
     src: join(__dirname, 'plugin.js')
   }

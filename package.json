@@ -1,6 +1,6 @@
 {
   "name": "nuxt-auth-server-init",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nuxt-auth plugin providing the ability to request data only for authorized users",
   "main": "index.js",
   "author": "Rustam",
